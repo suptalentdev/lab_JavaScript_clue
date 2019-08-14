@@ -10,13 +10,13 @@ image:        https://pbs.twimg.com/profile_images/506787499331428352/65jTv2uC.j
 occupation:   Entrepreneur
 
 drOrchid
-frst_name:   Doctor
-lst_name:    Orchid
+first_name:   Doctor
+last_name:    Orchid
 color:        white
 description:  PhD in plant toxicology. Adopted daughter of Mr. Boddy
 age:          26
 image:        http://www.radiotimes.com/uploads/images/Original/111967.jpg
-ocupation:   Scientist
+ocupation:    Scientist
 
 profPlum
 first_name:   Victor
@@ -67,7 +67,7 @@ name: trophy      ---   weight: 25
 name: pistol      ---   weight: 20
 
 // Rooms
-name: Dinning Room
+name: Dining Room
 name: Conservatory
 name: Kitchen
 name: Study
